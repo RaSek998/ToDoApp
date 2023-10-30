@@ -8,4 +8,5 @@ class TodoappApplication
 
 fun main(args: Array<String>) {
 	runApplication<TodoappApplication>(*args)
+
 }
